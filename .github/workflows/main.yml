@@ -61,4 +61,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: neljuli07/taski_backend:latest
+          tags: neljuli07/kittygram_backend:latest
