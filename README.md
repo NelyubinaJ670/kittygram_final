@@ -16,8 +16,8 @@
 ## Что cделано:
 
 - Настроен запуск проекта Kittygram в контейнерах и CI/CD с помощью GitHub Actions
-- Проект Taski доступен по доменному имени `https://taskiddns.ddns.net`.
-- Проект Kittygram доступен по доменному имени `https://kittygramsites.sytes.net`.
+- Проект Taski доступен по доменному имени https://taskiddns.ddns.net.
+- Проект Kittygram доступен по доменному имени https://kittygramsites.sytes.net.
 - Пуш в ветку main запускает тестирование и деплой Kittygram, а после успешного деплоя вам приходит сообщение в телеграм.
 - В корне проекта есть файл `kittygram_workflow.yml`.
 
